@@ -1,14 +1,19 @@
 
 <p align="center">
-ANJALI BOT VERSION 3.0
+𝐀𝐍𝐉𝐀𝐋𝐈 𝐁𝐎𝐓 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 3.0
 
+---
 <p align="center">
-MADE WITH MUHAMMED&TOXIDE-SER-444
+𝐌𝐀𝐃𝐄 𝐖𝐈𝐓𝐇 𝐋𝐎𝐕𝐄
+<p align="center">
+𝐁𝐘
+<p align="center">
+𝐌𝐔𝐇𝐀𝐌𝐌𝐄𝐃 𝐀𝐍𝐃 𝐀𝐊𝐒𝐇𝐀𝐘
 
 ##
-<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="ANJALIWELCOME.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="TAURUSGFX2.gif" alt="GIF" width="150" height="150"/>
+        <img src="ANJALI.gif" alt="GIF" width="150" height="150"/>
 </p>
 
 <div align="center">
@@ -19,12 +24,15 @@ MADE WITH MUHAMMED&TOXIDE-SER-444
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="ANJALI" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="ANJALI" src="https://img.shields.io/badge/ANJALI-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
   <p align="center">
-<a href="https://github.com/taurus-x-toxide"><img title="Author" src="https://img.shields.io/badge/Author-taurus-x-toxide?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author- muhammed-x/?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/TOXIDE-SER-444"><img title="Author" src="https://img.shields.io/badge/Author- Akshay-u/?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -129,9 +137,9 @@ By establishing the ANJALI_v3, you are deemed to have accepted these responsibil
 ## Developers 
   <div align="center">
     
-  [![MUHAMMED](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![AKSHAY](https://github.com/TOXIDE-SER.png?size=100)](https://github.com/TOXIDE-SER) | [![TRS×TXD](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
+  [![MUHAMMED](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![AKSHAY](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TRS×TXD](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
 ----|----|----
-[MUHAMMED](https://github.com/muhammed-usrbot) | [AKSHAY](https://github.com/TOXIDE-SER) | [TRS×TXD](https://github.com/taurus-x-toxide)
+[MUHAMMED](https://github.com/muhammed-usrbot) | [AKSHAY](https://github.com/TOXIDE-SER-444) | [TRS×TXD](https://github.com/taurus-x-toxide)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
