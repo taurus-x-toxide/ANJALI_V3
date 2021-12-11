@@ -1,9 +1,9 @@
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+ANJALI BOT VERSION 3.0
 
 <p align="center">
-𝙼𝙰𝙺𝙴𝙳 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳
+MADE WITH MUHAMMED&TOXIDE-SER-444
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Anjali_v3+WA+Bot+repo;Created+by+MUHAMMED+TOXIDE+SER;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
