@@ -13,7 +13,7 @@
 ##
 <a href="https://bit.ly/3koZRGY"><img src="ANJALIWELCOME.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="ANJALI.gif" alt="GIF" width="150" height="150"/>
+        <img src="https://tenor.com/view/cute-anime-wave-hi-hello-gif-8807701.gif" alt="GIF" width="150" height="150"/>
 </p>
 
 <div align="center">
