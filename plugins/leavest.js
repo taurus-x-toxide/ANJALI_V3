@@ -11,9 +11,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://bit.ly/3DOgLpP";
-  r_text[1] = "https://bit.ly/3cwa8fv";   
-  r_text[2] = "https://bit.ly/3lnD2U8";   
+  r_text[0] = "https://firebasestorage.googleapis.com/v0/b/photo-to-link.appspot.com/o/945282193?alt=media&token=5d13aa55-b0d7-47d6-b492-5675e6327485";
+  r_text[1] = "https://firebasestorage.googleapis.com/v0/b/photo-to-link.appspot.com/o/89675337?alt=media&token=44cf648e-1543-4990-8e65-6e9a4458ed12";   
+  r_text[2] = "https://firebasestorage.googleapis.com/v0/b/photo-to-link.appspot.com/o/681277785?alt=media&token=87f207fc-c7c7-4903-8366-2d3bdc17fa67";   
 
 
     var i = Math.floor(3*Math.random())
@@ -39,25 +39,30 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 
 
-☘︎ *ɢɪᴛʜᴜʙ ʟɪɴᴋ : http://www.github.com/muhammed-usrbot/taurus-bot .*
+☘︎ *ɢɪᴛʜᴜʙ ʟɪɴᴋ : http://www.github.com/taurus-x-toxide/ANJALI_V3.*
 
 
 
-☘︎ *ᴀᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/muhammed-usrbot/taurus-bot/tree/master/uploads .*
+☘︎ *ᴀᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/taurus-x-toxide/ANJALI_V3/tree/master/uploads .*
 
 
 
-☘︎ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/muhammed-usrbot/taurus-bot/tree/master/sticker .*
+☘︎ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/taurus-x-toxide/ANJALI_V3/tree/master/sticker .*
 
 
 
-☘︎ *ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ : https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL .*
+☘︎ *ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ : https://chat.whatsapp.com/LSUcvkFluKRG5j6aU0Oznz .*
 
 
 
-☘︎ *ᴏᴡɴᴇʀ : wa.me/918157849715?&text=ʜɪ%20ᴍᴜʜᴀᴍᴍᴇᴅ%20❤︎*
+☘︎ *ᴛᴀᴜʀᴜs sᴇʀ : wa.me/918157849715?&text=ʜɪ%20ᴍᴜʜᴀᴍᴍᴇᴅ%20❤︎*
 
-*Ⓒ︎2021 MUHAMMED*
+
+
+☘︎ *ᴛᴏxɪᴅᴇ sᴇʀ : wa.me/919048329892?&text=ʜɪ%20ᴀᴋsʜᴀʏ%20❤︎*
+
+
+*Ⓒ︎2021 MUHAMMED AND AKSHAY*
 
 
 `}) 
