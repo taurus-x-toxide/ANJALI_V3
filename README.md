@@ -80,7 +80,7 @@ __________________
 #####
  
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/3x8QSyf)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/3rYjt96)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3lVvfx9)
