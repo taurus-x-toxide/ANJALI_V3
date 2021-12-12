@@ -36,7 +36,8 @@
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">ᴍᴜʜᴀᴍᴍᴇᴅ <a href="https://github.com/TOXIDE-SER-444">ᴀᴋsʜᴀʏ</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 
+<a href="https://github.com/muhammed-usrbot">ᴍᴜʜᴀᴍᴍᴇᴅ <a href="https://github.com/TOXIDE-SER-444">ᴀᴋsʜᴀʏ</a>
     <br>
        | © |
         Reserved |
