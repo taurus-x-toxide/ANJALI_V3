@@ -36,7 +36,7 @@
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/taurus-x-toxide">taurus-x-toxide</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">ᴍᴜʜᴀᴍᴍᴇᴅ <a href="https://github.com/TOXIDE-SER-444">ᴀᴋsʜᴀʏ</a>
     <br>
        | © |
         Reserved |
