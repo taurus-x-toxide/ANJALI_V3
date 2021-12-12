@@ -15,10 +15,11 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
     var r_text = new Array ();
     
     
-    r_text[0] = "https://bit.ly/3DOgLpP";
-    r_text[1] = "https://bit.ly/3cwa8fv";
-    r_text[2] = "https://bit.ly/3lnD2U8";
-    
+  r_text[0] = "https://firebasestorage.googleapis.com/v0/b/photo-to-link.appspot.com/o/945282193?alt=media&token=5d13aa55-b0d7-47d6-b492-5675e6327485";
+  r_text[1] = "https://firebasestorage.googleapis.com/v0/b/photo-to-link.appspot.com/o/89675337?alt=media&token=44cf648e-1543-4990-8e65-6e9a4458ed12";   
+  r_text[2] = "https://firebasestorage.googleapis.com/v0/b/photo-to-link.appspot.com/o/681277785?alt=media&token=87f207fc-c7c7-4903-8366-2d3bdc17fa67";   
+
+   
 
     var i = Math.floor(3*Math.random())
 
