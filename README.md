@@ -46,7 +46,11 @@
 
 ----
 
-<h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
+<h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴛᴀᴜʀᴜs:</h3>
+<p align="center">
+<a href="https://instagram.com/_taurus.exe" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
+</p>
+<h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴛᴏxɪᴅᴇ:</h3>
 <p align="center">
 <a href="https://instagram.com/mind_have_changed_?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
 </p>
@@ -67,7 +71,7 @@
 ##
   <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
+  <a href="https://chat.whatsapp.com/LSUcvkFluKRG5j6aU0Oznz" target="blank"><img align="center" src="TRSWA.png"alt="group" height="50" width="50" /></a>
 </p>
 
 
